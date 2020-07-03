@@ -1,6 +1,7 @@
 .contanier{
   position: relative;
-  top:150px;
+  /* top:110px; */
+  margin-top: 7vh;
   display: flex;
   justify-content: center;
 }
