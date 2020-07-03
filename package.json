@@ -1,17 +1,17 @@
 {
-  "homepage": "https://github.com/alQaisi/xogame",
-  "name": "tictactoe",
+  "homepage":"https://alqaisi.github.io/xogame",
+  "name": "xogame",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
-    "gh-pages": "^3.1.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
-    "tachyons": "^4.12.0"
+    "tachyons": "^4.12.0",
+    "yargs-parser": "^18.1.3"
   },
   "scripts": {
     "predeploy": "npm run build",
@@ -35,5 +35,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   }
 }
