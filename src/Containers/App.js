@@ -59,14 +59,19 @@ class App extends Component{
       let {playerO}=this.state;
       if(playerO.length>=3){
         playerO=playerO.sort();
-        let itemO=playerO[playerO.length-1];
+        for(let i=0;i<playerO.length-2;i++){
+          let itemO=playerO[playerO.length-(i+1)];
         switchFunc(itemO,playerO,"O");
+        }
+        
       }
     }else{
       let {playerX}=this.state;
       playerX=playerX.sort();
-      let itemX=playerX[playerX.length-1];
+      for(let i=0;i<playerX.length-2;i++){
+        let itemX=playerX[playerX.length-(i+1)];
       switchFunc(itemX,playerX,"X");
+      }
     }
   }
   onSqClick=(sqNumber)=>{
