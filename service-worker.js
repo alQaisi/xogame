@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/xogame/precache-manifest.a90f0e8d78abc06aa24d7d043ddee22d.js"
+  "/xogame/precache-manifest.1f0915fbdc0d441b2e4864e824169c86.js"
 );
 
 self.addEventListener('message', (event) => {
