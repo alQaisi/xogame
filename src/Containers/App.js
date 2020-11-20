@@ -25,7 +25,7 @@ class App extends Component{
     <div className="contanier">
       <div>
     <h1 className={winnerClass}>Winner is : {Winner}</h1>
-      <Squares numberOfSquare={numberOfSquare} digitOfSquare={digitOfSquare} onSqClick={ON_Click}/>
+      <Squares numberOfSquare={numberOfSquare} digitOfSquare={digitOfSquare} onSqClick={ON_Click} Winner={Winner}/>
       <div className="button">
       <button className="f4 link dim ph3 pv2 mb2 db white bg-blue" style={{border:'5px',borderRadius:'25px',marginTop:'25px',fontSize:'30px'}} onClick={ON_RESTART} >restart</button>
       </div>
