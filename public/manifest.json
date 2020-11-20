@@ -1,9 +1,10 @@
+
 {
   "short_name": "XO Game",
-  "name": " Enjoy it :) !",
+  "name": "Enjoy the game",
   "icons": [
     {
-      "src": "favicon-32x32.png",
+      "src": "favicon.ico",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
@@ -24,7 +25,7 @@
       "purpose": "any maskable"
     }
   ],
-  "start_url": "index.html",
+  "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
