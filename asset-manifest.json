@@ -1,25 +1,23 @@
 {
   "files": {
-    "main.css": "/xogame/static/css/main.eb474895.chunk.css",
-    "main.js": "/xogame/static/js/main.689c7194.chunk.js",
-    "main.js.map": "/xogame/static/js/main.689c7194.chunk.js.map",
-    "runtime-main.js": "/xogame/static/js/runtime-main.7eeb6c95.js",
-    "runtime-main.js.map": "/xogame/static/js/runtime-main.7eeb6c95.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/xogame/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.243aea31.chunk.js": "/xogame/static/js/2.243aea31.chunk.js",
-    "static/js/2.243aea31.chunk.js.map": "/xogame/static/js/2.243aea31.chunk.js.map",
+    "main.css": "/xogame/static/css/main.941f4b2d.chunk.css",
+    "main.js": "/xogame/static/js/main.6983222e.chunk.js",
+    "main.js.map": "/xogame/static/js/main.6983222e.chunk.js.map",
+    "runtime-main.js": "/xogame/static/js/runtime-main.5a127c80.js",
+    "runtime-main.js.map": "/xogame/static/js/runtime-main.5a127c80.js.map",
+    "static/css/2.31461e4f.chunk.css": "/xogame/static/css/2.31461e4f.chunk.css",
+    "static/js/2.cad4a294.chunk.js": "/xogame/static/js/2.cad4a294.chunk.js",
+    "static/js/2.cad4a294.chunk.js.map": "/xogame/static/js/2.cad4a294.chunk.js.map",
     "index.html": "/xogame/index.html",
-    "precache-manifest.1f0915fbdc0d441b2e4864e824169c86.js": "/xogame/precache-manifest.1f0915fbdc0d441b2e4864e824169c86.js",
-    "service-worker.js": "/xogame/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/xogame/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.eb474895.chunk.css.map": "/xogame/static/css/main.eb474895.chunk.css.map",
-    "static/js/2.243aea31.chunk.js.LICENSE.txt": "/xogame/static/js/2.243aea31.chunk.js.LICENSE.txt"
+    "static/css/2.31461e4f.chunk.css.map": "/xogame/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.941f4b2d.chunk.css.map": "/xogame/static/css/main.941f4b2d.chunk.css.map",
+    "static/js/2.cad4a294.chunk.js.LICENSE.txt": "/xogame/static/js/2.cad4a294.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7eeb6c95.js",
-    "static/css/2.3c03f26f.chunk.css",
-    "static/js/2.243aea31.chunk.js",
-    "static/css/main.eb474895.chunk.css",
-    "static/js/main.689c7194.chunk.js"
+    "static/js/runtime-main.5a127c80.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.cad4a294.chunk.js",
+    "static/css/main.941f4b2d.chunk.css",
+    "static/js/main.6983222e.chunk.js"
   ]
 }
